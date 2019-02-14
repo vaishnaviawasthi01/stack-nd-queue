@@ -1,4 +1,4 @@
-#include"LL.cpp"
+#include<iostream>
 using namespace std;
 //declaring class
 //ll
